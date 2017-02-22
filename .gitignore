@@ -1,4 +1,6 @@
 .idea
 boboface-thread/build
 boboface-thread/*.iml
+boboface-design-pattern/build
+boboface-design-pattern/*.iml
 *.iml

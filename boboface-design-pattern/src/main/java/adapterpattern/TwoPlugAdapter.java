@@ -1,4 +1,4 @@
-package adapter;
+package adapterpattern;
 
 /**
  * Created by zwb on 2017/2/22.二相插头设配器
